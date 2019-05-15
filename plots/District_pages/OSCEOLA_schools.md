@@ -1,4 +1,4 @@
-OSCEOLA
+# Schools in Osceola  *Notes*- See comments about the source data on [the page that brought you here](https://adamlamee.github.io/FL-K12-analyses/plots/District_pages/Osceola.html).  - Only schools with total biology enrollment exceeding a threshold (around 100 students) are included. That makes it less likely a high school was excluded, though it may mean some middle schools were included.  
 ![](../School_plots/OSCEOLA/AVANT_GARD.png)
 ![](../School_plots/OSCEOLA/CELEBRATIO.png)
 ![](../School_plots/OSCEOLA/FOUR_CORNE.png)

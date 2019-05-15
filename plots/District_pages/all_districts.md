@@ -1,0 +1,220 @@
+All Florida Districts
+---
+![](../District_plots/ALACHUA_11BCPtrend.png) ![](../District_plots/ALACHUA_12courses.png)
+![](../District_plots/ALACHUA_2demog.png)
+---
+![](../District_plots/BAKER_11BCPtrend.png) ![](../District_plots/BAKER_12courses.png)
+![](../District_plots/BAKER_2demog.png)
+---
+![](../District_plots/BAY_11BCPtrend.png) ![](../District_plots/BAY_12courses.png)
+![](../District_plots/BAY_2demog.png)
+---
+![](../District_plots/BRADFORD_11BCPtrend.png) ![](../District_plots/BRADFORD_12courses.png)
+![](../District_plots/BRADFORD_2demog.png)
+---
+![](../District_plots/BREVARD_11BCPtrend.png) ![](../District_plots/BREVARD_12courses.png)
+![](../District_plots/BREVARD_2demog.png)
+---
+![](../District_plots/BROWARD_11BCPtrend.png) ![](../District_plots/BROWARD_12courses.png)
+![](../District_plots/BROWARD_2demog.png)
+---
+![](../District_plots/CALHOUN_11BCPtrend.png) ![](../District_plots/CALHOUN_12courses.png)
+![](../District_plots/CALHOUN_2demog.png)
+---
+![](../District_plots/CHARLOTTE_11BCPtrend.png) ![](../District_plots/CHARLOTTE_12courses.png)
+![](../District_plots/CHARLOTTE_2demog.png)
+---
+![](../District_plots/CITRUS_11BCPtrend.png) ![](../District_plots/CITRUS_12courses.png)
+![](../District_plots/CITRUS_2demog.png)
+---
+![](../District_plots/CLAY_11BCPtrend.png) ![](../District_plots/CLAY_12courses.png)
+![](../District_plots/CLAY_2demog.png)
+---
+![](../District_plots/COLLIER_11BCPtrend.png) ![](../District_plots/COLLIER_12courses.png)
+![](../District_plots/COLLIER_2demog.png)
+---
+![](../District_plots/COLUMBIA_11BCPtrend.png) ![](../District_plots/COLUMBIA_12courses.png)
+![](../District_plots/COLUMBIA_2demog.png)
+---
+![](../District_plots/MIAMI-DADE_11BCPtrend.png) ![](../District_plots/MIAMI-DADE_12courses.png)
+![](../District_plots/MIAMI-DADE_2demog.png)
+---
+![](../District_plots/DESOTO_11BCPtrend.png) ![](../District_plots/DESOTO_12courses.png)
+![](../District_plots/DESOTO_2demog.png)
+---
+![](../District_plots/DIXIE_11BCPtrend.png) ![](../District_plots/DIXIE_12courses.png)
+![](../District_plots/DIXIE_2demog.png)
+---
+![](../District_plots/DUVAL_11BCPtrend.png) ![](../District_plots/DUVAL_12courses.png)
+![](../District_plots/DUVAL_2demog.png)
+---
+![](../District_plots/ESCAMBIA_11BCPtrend.png) ![](../District_plots/ESCAMBIA_12courses.png)
+![](../District_plots/ESCAMBIA_2demog.png)
+---
+![](../District_plots/FLAGLER_11BCPtrend.png) ![](../District_plots/FLAGLER_12courses.png)
+![](../District_plots/FLAGLER_2demog.png)
+---
+![](../District_plots/FRANKLIN_11BCPtrend.png) ![](../District_plots/FRANKLIN_12courses.png)
+![](../District_plots/FRANKLIN_2demog.png)
+---
+![](../District_plots/GADSDEN_11BCPtrend.png) ![](../District_plots/GADSDEN_12courses.png)
+![](../District_plots/GADSDEN_2demog.png)
+---
+![](../District_plots/GILCHRIST_11BCPtrend.png) ![](../District_plots/GILCHRIST_12courses.png)
+![](../District_plots/GILCHRIST_2demog.png)
+---
+![](../District_plots/GLADES_11BCPtrend.png) ![](../District_plots/GLADES_12courses.png)
+![](../District_plots/GLADES_2demog.png)
+---
+![](../District_plots/GULF_11BCPtrend.png) ![](../District_plots/GULF_12courses.png)
+![](../District_plots/GULF_2demog.png)
+---
+![](../District_plots/HAMILTON_11BCPtrend.png) ![](../District_plots/HAMILTON_12courses.png)
+![](../District_plots/HAMILTON_2demog.png)
+---
+![](../District_plots/HARDEE_11BCPtrend.png) ![](../District_plots/HARDEE_12courses.png)
+![](../District_plots/HARDEE_2demog.png)
+---
+![](../District_plots/HENDRY_11BCPtrend.png) ![](../District_plots/HENDRY_12courses.png)
+![](../District_plots/HENDRY_2demog.png)
+---
+![](../District_plots/HERNANDO_11BCPtrend.png) ![](../District_plots/HERNANDO_12courses.png)
+![](../District_plots/HERNANDO_2demog.png)
+---
+![](../District_plots/HIGHLANDS_11BCPtrend.png) ![](../District_plots/HIGHLANDS_12courses.png)
+![](../District_plots/HIGHLANDS_2demog.png)
+---
+![](../District_plots/HILLSBOROUGH_11BCPtrend.png) ![](../District_plots/HILLSBOROUGH_12courses.png)
+![](../District_plots/HILLSBOROUGH_2demog.png)
+---
+![](../District_plots/HOLMES_11BCPtrend.png) ![](../District_plots/HOLMES_12courses.png)
+![](../District_plots/HOLMES_2demog.png)
+---
+![](../District_plots/INDIAN_RIVER_11BCPtrend.png) ![](../District_plots/INDIAN_RIVER_12courses.png)
+![](../District_plots/INDIAN_RIVER_2demog.png)
+---
+![](../District_plots/JACKSON_11BCPtrend.png) ![](../District_plots/JACKSON_12courses.png)
+![](../District_plots/JACKSON_2demog.png)
+---
+![](../District_plots/JEFFERSON_11BCPtrend.png) ![](../District_plots/JEFFERSON_12courses.png)
+![](../District_plots/JEFFERSON_2demog.png)
+---
+![](../District_plots/LAFAYETTE_11BCPtrend.png) ![](../District_plots/LAFAYETTE_12courses.png)
+![](../District_plots/LAFAYETTE_2demog.png)
+---
+![](../District_plots/LAKE_11BCPtrend.png) ![](../District_plots/LAKE_12courses.png)
+![](../District_plots/LAKE_2demog.png)
+---
+![](../District_plots/LEE_11BCPtrend.png) ![](../District_plots/LEE_12courses.png)
+![](../District_plots/LEE_2demog.png)
+---
+![](../District_plots/LEON_11BCPtrend.png) ![](../District_plots/LEON_12courses.png)
+![](../District_plots/LEON_2demog.png)
+---
+![](../District_plots/LEVY_11BCPtrend.png) ![](../District_plots/LEVY_12courses.png)
+![](../District_plots/LEVY_2demog.png)
+---
+![](../District_plots/LIBERTY_11BCPtrend.png) ![](../District_plots/LIBERTY_12courses.png)
+![](../District_plots/LIBERTY_2demog.png)
+---
+![](../District_plots/MADISON_11BCPtrend.png) ![](../District_plots/MADISON_12courses.png)
+![](../District_plots/MADISON_2demog.png)
+---
+![](../District_plots/MANATEE_11BCPtrend.png) ![](../District_plots/MANATEE_12courses.png)
+![](../District_plots/MANATEE_2demog.png)
+---
+![](../District_plots/MARION_11BCPtrend.png) ![](../District_plots/MARION_12courses.png)
+![](../District_plots/MARION_2demog.png)
+---
+![](../District_plots/MARTIN_11BCPtrend.png) ![](../District_plots/MARTIN_12courses.png)
+![](../District_plots/MARTIN_2demog.png)
+---
+![](../District_plots/MONROE_11BCPtrend.png) ![](../District_plots/MONROE_12courses.png)
+![](../District_plots/MONROE_2demog.png)
+---
+![](../District_plots/NASSAU_11BCPtrend.png) ![](../District_plots/NASSAU_12courses.png)
+![](../District_plots/NASSAU_2demog.png)
+---
+![](../District_plots/OKALOOSA_11BCPtrend.png) ![](../District_plots/OKALOOSA_12courses.png)
+![](../District_plots/OKALOOSA_2demog.png)
+---
+![](../District_plots/OKEECHOBEE_11BCPtrend.png) ![](../District_plots/OKEECHOBEE_12courses.png)
+![](../District_plots/OKEECHOBEE_2demog.png)
+---
+![](../District_plots/ORANGE_11BCPtrend.png) ![](../District_plots/ORANGE_12courses.png)
+![](../District_plots/ORANGE_2demog.png)
+---
+![](../District_plots/OSCEOLA_11BCPtrend.png) ![](../District_plots/OSCEOLA_12courses.png)
+![](../District_plots/OSCEOLA_2demog.png)
+---
+![](../District_plots/PALM_BEACH_11BCPtrend.png) ![](../District_plots/PALM_BEACH_12courses.png)
+![](../District_plots/PALM_BEACH_2demog.png)
+---
+![](../District_plots/PASCO_11BCPtrend.png) ![](../District_plots/PASCO_12courses.png)
+![](../District_plots/PASCO_2demog.png)
+---
+![](../District_plots/PINELLAS_11BCPtrend.png) ![](../District_plots/PINELLAS_12courses.png)
+![](../District_plots/PINELLAS_2demog.png)
+---
+![](../District_plots/POLK_11BCPtrend.png) ![](../District_plots/POLK_12courses.png)
+![](../District_plots/POLK_2demog.png)
+---
+![](../District_plots/PUTNAM_11BCPtrend.png) ![](../District_plots/PUTNAM_12courses.png)
+![](../District_plots/PUTNAM_2demog.png)
+---
+![](../District_plots/ST_JOHNS_11BCPtrend.png) ![](../District_plots/ST_JOHNS_12courses.png)
+![](../District_plots/ST_JOHNS_2demog.png)
+---
+![](../District_plots/ST_LUCIE_11BCPtrend.png) ![](../District_plots/ST_LUCIE_12courses.png)
+![](../District_plots/ST_LUCIE_2demog.png)
+---
+![](../District_plots/SANTA_ROSA_11BCPtrend.png) ![](../District_plots/SANTA_ROSA_12courses.png)
+![](../District_plots/SANTA_ROSA_2demog.png)
+---
+![](../District_plots/SARASOTA_11BCPtrend.png) ![](../District_plots/SARASOTA_12courses.png)
+![](../District_plots/SARASOTA_2demog.png)
+---
+![](../District_plots/SEMINOLE_11BCPtrend.png) ![](../District_plots/SEMINOLE_12courses.png)
+![](../District_plots/SEMINOLE_2demog.png)
+---
+![](../District_plots/SUMTER_11BCPtrend.png) ![](../District_plots/SUMTER_12courses.png)
+![](../District_plots/SUMTER_2demog.png)
+---
+![](../District_plots/SUWANNEE_11BCPtrend.png) ![](../District_plots/SUWANNEE_12courses.png)
+![](../District_plots/SUWANNEE_2demog.png)
+---
+![](../District_plots/TAYLOR_11BCPtrend.png) ![](../District_plots/TAYLOR_12courses.png)
+![](../District_plots/TAYLOR_2demog.png)
+---
+![](../District_plots/UNION_11BCPtrend.png) ![](../District_plots/UNION_12courses.png)
+![](../District_plots/UNION_2demog.png)
+---
+![](../District_plots/VOLUSIA_11BCPtrend.png) ![](../District_plots/VOLUSIA_12courses.png)
+![](../District_plots/VOLUSIA_2demog.png)
+---
+![](../District_plots/WAKULLA_11BCPtrend.png) ![](../District_plots/WAKULLA_12courses.png)
+![](../District_plots/WAKULLA_2demog.png)
+---
+![](../District_plots/WALTON_11BCPtrend.png) ![](../District_plots/WALTON_12courses.png)
+![](../District_plots/WALTON_2demog.png)
+---
+![](../District_plots/WASHINGTON_11BCPtrend.png) ![](../District_plots/WASHINGTON_12courses.png)
+![](../District_plots/WASHINGTON_2demog.png)
+---
+![](../District_plots/DEAF_BLIND_11BCPtrend.png) ![](../District_plots/DEAF_BLIND_12courses.png)
+![](../District_plots/DEAF_BLIND_2demog.png)
+---
+![](../District_plots/FL_VIRTUAL_11BCPtrend.png) ![](../District_plots/FL_VIRTUAL_12courses.png)
+![](../District_plots/FL_VIRTUAL_2demog.png)
+---
+![](../District_plots/FAU_LAB_SCH_11BCPtrend.png) ![](../District_plots/FAU_LAB_SCH_12courses.png)
+![](../District_plots/FAU_LAB_SCH_2demog.png)
+---
+![](../District_plots/FSU_LAB_SCH_11BCPtrend.png) ![](../District_plots/FSU_LAB_SCH_12courses.png)
+![](../District_plots/FSU_LAB_SCH_2demog.png)
+---
+![](../District_plots/FAMU_LAB_SCH_11BCPtrend.png) ![](../District_plots/FAMU_LAB_SCH_12courses.png)
+![](../District_plots/FAMU_LAB_SCH_2demog.png)
+---
+![](../District_plots/UF_LAB_SCH_11BCPtrend.png) ![](../District_plots/UF_LAB_SCH_12courses.png)
+![](../District_plots/UF_LAB_SCH_2demog.png)

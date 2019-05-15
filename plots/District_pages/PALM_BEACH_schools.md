@@ -1,4 +1,4 @@
-PALM_BEACH
+# Schools in Palm_Beach  *Notes*- See comments about the source data on [the page that brought you here](https://adamlamee.github.io/FL-K12-analyses/plots/District_pages/Palm_Beach.html).  - Only schools with total biology enrollment exceeding a threshold (around 100 students) are included. That makes it less likely a high school was excluded, though it may mean some middle schools were included.  
 ![](../School_plots/PALM_BEACH/ALEXANDER_.png)
 ![](../School_plots/PALM_BEACH/ATLANTIC.png)
 ![](../School_plots/PALM_BEACH/BOCA_RATON.png)
