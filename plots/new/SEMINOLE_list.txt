@@ -1,2 +1,2 @@
 heading
-![](CROOMS_ACA.png HAGERTY.png LAKE_BRANT.png LAKE_HOWEL.png LAKE_MARY.png LYMAN.png OVIEDO.png SEMINOLE.png WINTER_SPR.png)
+![](../School_plots/CROOMS_ACA.png HAGERTY.png LAKE_BRANT.png LAKE_HOWEL.png LAKE_MARY.png LYMAN.png OVIEDO.png SEMINOLE.png WINTER_SPR.png)

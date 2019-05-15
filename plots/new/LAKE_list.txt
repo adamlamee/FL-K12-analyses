@@ -1,2 +1,2 @@
 heading
-![](ALEE_ACADE.png EAST_RIDGE.png EUSTIS.png LAKE_MINNE.png LEESBURG.png MT_DORA.png SOUTH_LAKE.png TAVARES.png UMATILLA.png)
+![](../School_plots/ALEE_ACADE.png EAST_RIDGE.png EUSTIS.png LAKE_MINNE.png LEESBURG.png MT_DORA.png SOUTH_LAKE.png TAVARES.png UMATILLA.png)

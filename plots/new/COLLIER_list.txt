@@ -1,2 +1,2 @@
 heading
-![](BARRON_COL.png GOLDEN_GAT.png GULF_COAST.png IMMOKALEE.png LELY.png LORENZO_WA.png NAPLES.png PALMETTO_R.png)
+![](../School_plots/BARRON_COL.png GOLDEN_GAT.png GULF_COAST.png IMMOKALEE.png LELY.png LORENZO_WA.png NAPLES.png PALMETTO_R.png)

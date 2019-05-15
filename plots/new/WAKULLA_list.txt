@@ -1,2 +1,2 @@
 heading
-![](WAKULLA.png)
+![](../School_plots/WAKULLA.png)

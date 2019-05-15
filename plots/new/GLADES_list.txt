@@ -1,2 +1,2 @@
 heading
-![](MOORE_HAVE.png)
+![](../School_plots/MOORE_HAVE.png)

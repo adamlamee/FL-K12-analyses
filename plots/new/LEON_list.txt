@@ -1,2 +1,2 @@
 heading
-![](AMOS_P_GOD.png FAIRVIEW.png JAMES_RICK.png LAWTON_CHI.png LEON.png LINCOLN.png SAIL.png SUCCESS_AC.png)
+![](../School_plots/AMOS_P_GOD.png FAIRVIEW.png JAMES_RICK.png LAWTON_CHI.png LEON.png LINCOLN.png SAIL.png SUCCESS_AC.png)

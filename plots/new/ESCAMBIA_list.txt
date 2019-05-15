@@ -1,2 +1,2 @@
 heading
-![](ESCAMBIA.png J_M_TATE_S.png NORTHVIEW.png PENSACOLA.png PINE_FORES.png WASHINGTON.png WEST_FLORI.png)
+![](../School_plots/ESCAMBIA.png J_M_TATE_S.png NORTHVIEW.png PENSACOLA.png PINE_FORES.png WASHINGTON.png WEST_FLORI.png)

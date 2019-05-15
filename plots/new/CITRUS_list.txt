@@ -1,2 +1,2 @@
 heading
-![](ACADEMY_OF.png CITRUS.png CRYSTAL_RI.png LECANTO.png)
+![](../School_plots/ACADEMY_OF.png CITRUS.png CRYSTAL_RI.png LECANTO.png)

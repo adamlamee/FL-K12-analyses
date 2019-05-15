@@ -1,2 +1,2 @@
 heading
-![](FORT_PIERC.png PORT_ST_LU.png ST_LUCIE_W.png TREASURE_C.png)
+![](../School_plots/FORT_PIERC.png PORT_ST_LU.png ST_LUCIE_W.png TREASURE_C.png)

@@ -1,2 +1,2 @@
 heading
-![](BLOUNTSTOW.png)
+![](../School_plots/BLOUNTSTOW.png)

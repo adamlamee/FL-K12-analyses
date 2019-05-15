@@ -1,2 +1,2 @@
 heading
-![]()
+![](../School_plots/)
