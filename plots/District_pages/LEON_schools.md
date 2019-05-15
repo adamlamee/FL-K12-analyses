@@ -1,5 +1,5 @@
 LEON
-![](../School_plots/AMOS_P_GOD.png)
+![](../School_plots/LEON/AMOS_P_GOD.png)
 ![](../School_plots/LEON/FAIRVIEW.png)
 ![](../School_plots/LEON/JAMES_RICK.png)
 ![](../School_plots/LEON/LAWTON_CHI.png)

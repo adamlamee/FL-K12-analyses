@@ -1,5 +1,5 @@
 PINELLAS
-![](../School_plots/BOCA_CIEGA.png)
+![](../School_plots/PINELLAS/BOCA_CIEGA.png)
 ![](../School_plots/PINELLAS/CLEARWATER.png)
 ![](../School_plots/PINELLAS/COUNTRYSID.png)
 ![](../School_plots/PINELLAS/DISSTON_AC.png)

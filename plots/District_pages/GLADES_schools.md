@@ -1,2 +1,2 @@
 GLADES
-![](../School_plots/MOORE_HAVE.png)
+![](../School_plots/GLADES/MOORE_HAVE.png)

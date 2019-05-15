@@ -1,2 +1,2 @@
 FRANKLIN
-![](../School_plots/FRANKLIN_C.png)
+![](../School_plots/FRANKLIN/FRANKLIN_C.png)

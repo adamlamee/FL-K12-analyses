@@ -1,5 +1,5 @@
 SEMINOLE
-![](../School_plots/CROOMS_ACA.png)
+![](../School_plots/SEMINOLE/CROOMS_ACA.png)
 ![](../School_plots/SEMINOLE/HAGERTY.png)
 ![](../School_plots/SEMINOLE/LAKE_BRANT.png)
 ![](../School_plots/SEMINOLE/LAKE_HOWEL.png)

@@ -1,5 +1,5 @@
 PASCO
-![](../School_plots/ANCLOTE.png)
+![](../School_plots/PASCO/ANCLOTE.png)
 ![](../School_plots/PASCO/CYPRESS_CR.png)
 ![](../School_plots/PASCO/FIVAY.png)
 ![](../School_plots/PASCO/GULF.png)

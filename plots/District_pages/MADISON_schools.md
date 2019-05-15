@@ -1,2 +1,2 @@
 MADISON
-![](../School_plots/MADISON_CO.png)
+![](../School_plots/MADISON/MADISON_CO.png)

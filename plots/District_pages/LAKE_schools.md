@@ -1,5 +1,5 @@
 LAKE
-![](../School_plots/ALEE_ACADE.png)
+![](../School_plots/LAKE/ALEE_ACADE.png)
 ![](../School_plots/LAKE/EAST_RIDGE.png)
 ![](../School_plots/LAKE/EUSTIS.png)
 ![](../School_plots/LAKE/LAKE_MINNE.png)

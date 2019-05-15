@@ -1,2 +1,2 @@
 DESOTO
-![](../School_plots/DESOTO_COU.png)
+![](../School_plots/DESOTO/DESOTO_COU.png)

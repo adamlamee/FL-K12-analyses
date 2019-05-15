@@ -1,5 +1,5 @@
 SARASOTA
-![](../School_plots/BOOKER.png)
+![](../School_plots/SARASOTA/BOOKER.png)
 ![](../School_plots/SARASOTA/IMAGINEAT_.png)
 ![](../School_plots/SARASOTA/NORTH_PORT.png)
 ![](../School_plots/SARASOTA/PINE_VIEW_.png)

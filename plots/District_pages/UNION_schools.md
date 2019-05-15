@@ -1,2 +1,2 @@
 UNION
-![](../School_plots/UNION_COUN.png)
+![](../School_plots/UNION/UNION_COUN.png)

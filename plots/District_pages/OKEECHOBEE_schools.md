@@ -1,2 +1,2 @@
 OKEECHOBEE
-![](../School_plots/OKEECHOBEE.png)
+![](../School_plots/OKEECHOBEE/OKEECHOBEE.png)

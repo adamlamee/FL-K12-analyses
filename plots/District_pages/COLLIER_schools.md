@@ -1,5 +1,5 @@
 COLLIER
-![](../School_plots/BARRON_COL.png)
+![](../School_plots/COLLIER/BARRON_COL.png)
 ![](../School_plots/COLLIER/GOLDEN_GAT.png)
 ![](../School_plots/COLLIER/GULF_COAST.png)
 ![](../School_plots/COLLIER/IMMOKALEE.png)

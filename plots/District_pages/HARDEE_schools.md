@@ -1,2 +1,2 @@
 HARDEE
-![](../School_plots/HARDEE_SEN.png)
+![](../School_plots/HARDEE/HARDEE_SEN.png)

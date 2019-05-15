@@ -1,2 +1,2 @@
 WAKULLA
-![](../School_plots/WAKULLA.png)
+![](../School_plots/WAKULLA/WAKULLA.png)

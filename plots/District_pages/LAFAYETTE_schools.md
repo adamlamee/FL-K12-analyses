@@ -1,2 +1,2 @@
 LAFAYETTE
-![](../School_plots/LAFAYETTE.png)
+![](../School_plots/LAFAYETTE/LAFAYETTE.png)

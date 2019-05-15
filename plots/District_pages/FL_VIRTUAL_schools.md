@@ -1,2 +1,2 @@
 FL_VIRTUAL
-![](../School_plots/FLORIDA_VI.png)
+![](../School_plots/FL_VIRTUAL/FLORIDA_VI.png)

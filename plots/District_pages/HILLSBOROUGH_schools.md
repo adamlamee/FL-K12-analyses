@@ -1,5 +1,5 @@
 HILLSBOROUGH
-![](../School_plots/ALONSO.png)
+![](../School_plots/HILLSBOROUGH/ALONSO.png)
 ![](../School_plots/HILLSBOROUGH/ARMWOOD.png)
 ![](../School_plots/HILLSBOROUGH/BELL_CREEK.png)
 ![](../School_plots/HILLSBOROUGH/BLAKE.png)

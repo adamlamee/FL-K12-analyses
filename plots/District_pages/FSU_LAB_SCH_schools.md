@@ -1,2 +1,2 @@
 FSU_LAB_SCH
-![](../School_plots/FLORIDA_ST.png)
+![](../School_plots/FSU_LAB_SCH/FLORIDA_ST.png)

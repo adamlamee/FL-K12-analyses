@@ -1,2 +1,2 @@
 TAYLOR
-![](../School_plots/TAYLOR_COU.png)
+![](../School_plots/TAYLOR/TAYLOR_COU.png)

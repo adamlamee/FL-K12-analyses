@@ -1,5 +1,5 @@
 BROWARD
-![](../School_plots/ANDREWS.png)
+![](../School_plots/BROWARD/ANDREWS.png)
 ![](../School_plots/BROWARD/APOLLO.png)
 ![](../School_plots/BROWARD/ATLANTIC_T.png)
 ![](../School_plots/BROWARD/BLANCHE_EL.png)

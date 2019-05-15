@@ -1,5 +1,5 @@
 LEE
-![](../School_plots/BONITA_SPR.png)
+![](../School_plots/LEE/BONITA_SPR.png)
 ![](../School_plots/LEE/CAPE_CORAL.png)
 ![](../School_plots/LEE/CYPRESS_LA.png)
 ![](../School_plots/LEE/DONNA_J_BE.png)

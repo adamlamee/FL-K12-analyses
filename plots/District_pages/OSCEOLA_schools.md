@@ -1,5 +1,5 @@
 OSCEOLA
-![](../School_plots/AVANT_GARD.png)
+![](../School_plots/OSCEOLA/AVANT_GARD.png)
 ![](../School_plots/OSCEOLA/CELEBRATIO.png)
 ![](../School_plots/OSCEOLA/FOUR_CORNE.png)
 ![](../School_plots/OSCEOLA/GATEWAY.png)

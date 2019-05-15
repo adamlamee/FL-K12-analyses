@@ -1,2 +1,2 @@
 JEFFERSON
-![](../School_plots/)
+![](../School_plots/JEFFERSON/)

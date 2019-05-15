@@ -1,2 +1,2 @@
 BRADFORD
-![](../School_plots/BRADFORD.png)
+![](../School_plots/BRADFORD/BRADFORD.png)

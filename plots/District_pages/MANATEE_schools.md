@@ -1,5 +1,5 @@
 MANATEE
-![](../School_plots/BAYSHORE.png)
+![](../School_plots/MANATEE/BAYSHORE.png)
 ![](../School_plots/MANATEE/BRADEN_RIV.png)
 ![](../School_plots/MANATEE/LAKEWOOD_R.png)
 ![](../School_plots/MANATEE/MANATEE.png)

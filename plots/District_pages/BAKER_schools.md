@@ -1,2 +1,2 @@
 BAKER
-![](../School_plots/BAKER_COUN.png)
+![](../School_plots/BAKER/BAKER_COUN.png)

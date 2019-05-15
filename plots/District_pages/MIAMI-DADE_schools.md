@@ -1,5 +1,5 @@
 MIAMI-DADE
-![](../School_plots/ALONZO_&_T.png)
+![](../School_plots/MIAMI-DADE/ALONZO_&_T.png)
 ![](../School_plots/MIAMI-DADE/AMERICAN_S.png)
 ![](../School_plots/MIAMI-DADE/ARCHIMEDEA.png)
 ![](../School_plots/MIAMI-DADE/ARVIDA.png)

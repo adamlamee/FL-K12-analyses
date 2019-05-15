@@ -1,5 +1,5 @@
 POLK
-![](../School_plots/AUBURNDALE.png)
+![](../School_plots/POLK/AUBURNDALE.png)
 ![](../School_plots/POLK/BARTOW_SEN.png)
 ![](../School_plots/POLK/DISCOVERY.png)
 ![](../School_plots/POLK/FROSTPROOF.png)

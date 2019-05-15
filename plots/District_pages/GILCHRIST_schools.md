@@ -1,2 +1,2 @@
 GILCHRIST
-![](../School_plots/BELL.png)
+![](../School_plots/GILCHRIST/BELL.png)

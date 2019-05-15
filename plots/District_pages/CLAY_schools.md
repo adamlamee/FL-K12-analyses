@@ -1,5 +1,5 @@
 CLAY
-![](../School_plots/BURG.png)
+![](../School_plots/CLAY/BURG.png)
 ![](../School_plots/CLAY/CLAY.png)
 ![](../School_plots/CLAY/FLEMING_IS.png)
 ![](../School_plots/CLAY/KEYSTONE_H.png)

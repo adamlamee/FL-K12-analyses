@@ -1,5 +1,5 @@
 ORANGE
-![](../School_plots/ALOMACHART.png)
+![](../School_plots/ORANGE/ALOMACHART.png)
 ![](../School_plots/ORANGE/APOPKA_.png)
 ![](../School_plots/ORANGE/CHANCERYCH.png)
 ![](../School_plots/ORANGE/COLONIAL_.png)

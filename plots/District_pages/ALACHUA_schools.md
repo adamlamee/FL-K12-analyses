@@ -1,5 +1,5 @@
 ALACHUA
-![](../School_plots/EASTSIDE.png)
+![](../School_plots/ALACHUA/EASTSIDE.png)
 ![](../School_plots/ALACHUA/F_W_BUCHHO.png)
 ![](../School_plots/ALACHUA/GAINESVILL.png)
 ![](../School_plots/ALACHUA/NEWBERRY.png)

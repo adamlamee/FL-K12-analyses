@@ -1,2 +1,2 @@
 DIXIE
-![](../School_plots/DIXIE_COUN.png)
+![](../School_plots/DIXIE/DIXIE_COUN.png)

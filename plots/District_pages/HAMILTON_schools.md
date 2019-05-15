@@ -1,2 +1,2 @@
 HAMILTON
-![](../School_plots/HAMILTON_C.png)
+![](../School_plots/HAMILTON/HAMILTON_C.png)

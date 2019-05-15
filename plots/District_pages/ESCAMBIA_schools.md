@@ -1,5 +1,5 @@
 ESCAMBIA
-![](../School_plots/ESCAMBIA.png)
+![](../School_plots/ESCAMBIA/ESCAMBIA.png)
 ![](../School_plots/ESCAMBIA/J_M_TATE_S.png)
 ![](../School_plots/ESCAMBIA/NORTHVIEW.png)
 ![](../School_plots/ESCAMBIA/PENSACOLA.png)

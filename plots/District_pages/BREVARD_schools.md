@@ -1,5 +1,5 @@
 BREVARD
-![](../School_plots/ASTRONAUT.png)
+![](../School_plots/BREVARD/ASTRONAUT.png)
 ![](../School_plots/BREVARD/BAYSIDE.png)
 ![](../School_plots/BREVARD/COCOA.png)
 ![](../School_plots/BREVARD/COCOA_BEAC.png)

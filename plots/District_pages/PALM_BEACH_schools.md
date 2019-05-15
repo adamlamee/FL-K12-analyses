@@ -1,5 +1,5 @@
 PALM_BEACH
-![](../School_plots/ALEXANDER_.png)
+![](../School_plots/PALM_BEACH/ALEXANDER_.png)
 ![](../School_plots/PALM_BEACH/ATLANTIC.png)
 ![](../School_plots/PALM_BEACH/BOCA_RATON.png)
 ![](../School_plots/PALM_BEACH/BOYNTON_BE.png)

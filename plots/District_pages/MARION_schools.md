@@ -1,5 +1,5 @@
 MARION
-![](../School_plots/BELLEVIEW.png)
+![](../School_plots/MARION/BELLEVIEW.png)
 ![](../School_plots/MARION/DUNNELLON.png)
 ![](../School_plots/MARION/FOREST.png)
 ![](../School_plots/MARION/LAKE_WEIR.png)

@@ -1,5 +1,5 @@
 DUVAL
-![](../School_plots/ALFRED_I_D.png)
+![](../School_plots/DUVAL/ALFRED_I_D.png)
 ![](../School_plots/DUVAL/ANDREW_JAC.png)
 ![](../School_plots/DUVAL/ATLANTIC_C.png)
 ![](../School_plots/DUVAL/A_PHILIP_R.png)

@@ -1,5 +1,5 @@
 VOLUSIA
-![](../School_plots/ATLANTIC.png)
+![](../School_plots/VOLUSIA/ATLANTIC.png)
 ![](../School_plots/VOLUSIA/DELAND.png)
 ![](../School_plots/VOLUSIA/DELTONA.png)
 ![](../School_plots/VOLUSIA/MAINLAND.png)

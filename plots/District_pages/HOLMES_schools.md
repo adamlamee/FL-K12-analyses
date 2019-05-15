@@ -1,2 +1,2 @@
 HOLMES
-![](../School_plots/HOLMES_COU.png)
+![](../School_plots/HOLMES/HOLMES_COU.png)

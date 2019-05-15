@@ -1,2 +1,2 @@
 LIBERTY
-![](../School_plots/)
+![](../School_plots/LIBERTY/)
