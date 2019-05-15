@@ -1,2 +1,0 @@
-heading
-![](../School_plots/BURG.png CLAY.png FLEMING_IS.png KEYSTONE_H.png OAKLEAF.png ORANGE_PAR.png RIDGEVIEW.png)

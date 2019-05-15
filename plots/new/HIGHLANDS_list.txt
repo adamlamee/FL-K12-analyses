@@ -1,2 +1,0 @@
-heading
-![](../School_plots/AVON_PARK.png LAKE_PLACI.png SEBRING.png)

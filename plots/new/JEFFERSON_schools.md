@@ -1,2 +1,0 @@
-JEFFERSON
-![](../School_plots/)

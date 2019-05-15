@@ -1,2 +1,0 @@
-heading
-![](../School_plots/CHARLOTTE.png LEMON_BAY.png PORT_CHARL.png)

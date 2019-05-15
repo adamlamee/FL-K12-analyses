@@ -1,2 +1,0 @@
-heading
-![](../School_plots/COLUMBIA.png FORT_WHITE.png)

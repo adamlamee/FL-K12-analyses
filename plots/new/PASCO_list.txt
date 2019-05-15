@@ -1,2 +1,0 @@
-heading
-![](../School_plots/ANCLOTE.png CYPRESS_CR.png FIVAY.png GULF.png HUDSON.png JAMES_W_MI.png LAND_O'_LA.png PASCO.png RIVER_RIDG.png SUNLAKE.png WENDELL_KR.png WESLEY_CHA.png WIREGRASS_.png ZEPHYRHILL.png)

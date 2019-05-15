@@ -1,2 +1,0 @@
-LIBERTY
-![](../School_plots/)
