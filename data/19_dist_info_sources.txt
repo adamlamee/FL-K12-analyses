@@ -1,0 +1,34 @@
+19 Dist info comments
+
+Data sources
+	FLDOE: http://www.fldoe.org/accountability/data-sys/edu-info-accountability-services/pk-12-public-school-data-pubs-reports/students.stml
+		1718MembBySchoolByGrade.xls
+			1718s2_students
+			1718s2_seniors
+		1718MembInFLPublicSchools.xls	
+			1718s2_white_enrollment
+			1718s2_black_enrollment
+			1718s2_hispanic_enrollment
+		1819FS2-Lunch-Status-by-District.xlsx
+			1819s2_FRL
+		ADAADMDist1718.xlsx
+			1718s5_daily_attendance
+		1617ABS21DAYSDistrict.xls
+			1617s5_abs21days
+		1718-STABRATE-District.xls
+			1718_stability
+		FedGradRateCategory1718.xls
+			1718_fed_grad_rate
+			1718_frl_grad_rate
+			1718_F_grad_rate
+			1718_M_grad_rate
+		FedGradRateRace1718.xls
+			1718_W_grad_rate
+			1718_B_grad_rate
+			1718_H_grad_rate
+		Not used
+			1718CompletersStateDistrict.xlsx
+			1718ELLCodesMemb.xls
+			1718MembBySchoolByGradeByRace.xls (seniors, by race)
+	Florida Health: http://www.flhealthcharts.com/charts/OtherIndicators/NonVitalIndRateOnlyDataViewer.aspx?cid=0293
+		Median household income, by county, 2017
