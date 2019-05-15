@@ -1,0 +1,10 @@
+This file totally RULES!
+![](CROOMS_ACA.png)
+![](../School_plots/SEMINOLE/HAGERTY.png)
+![](../School_plots/SEMINOLE/LAKE_BRANT.png)
+![](../School_plots/SEMINOLE/LAKE_HOWEL.png)
+![](../School_plots/SEMINOLE/LAKE_MARY.png)
+![](../School_plots/SEMINOLE/LYMAN.png)
+![](../School_plots/SEMINOLE/OVIEDO.png)
+![](../School_plots/SEMINOLE/SEMINOLE.png)
+![](../School_plots/SEMINOLE/WINTER_SPR.png)

@@ -1,0 +1,9 @@
+This file totally RULES!
+![](BAYSHORE.png)
+![](../School_plots/MANATEE/BRADEN_RIV.png)
+![](../School_plots/MANATEE/LAKEWOOD_R.png)
+![](../School_plots/MANATEE/MANATEE.png)
+![](../School_plots/MANATEE/MANATEEFOR.png)
+![](../School_plots/MANATEE/PALMETTO.png)
+![](../School_plots/MANATEE/SOUTHEAST.png)
+![](../School_plots/MANATEE/STATE_COLL.png)

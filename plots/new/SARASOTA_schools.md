@@ -1,0 +1,10 @@
+This file totally RULES!
+![](BOOKER.png)
+![](../School_plots/SARASOTA/IMAGINEAT_.png)
+![](../School_plots/SARASOTA/NORTH_PORT.png)
+![](../School_plots/SARASOTA/PINE_VIEW_.png)
+![](../School_plots/SARASOTA/RIVERVIEW.png)
+![](../School_plots/SARASOTA/SARASOTA.png)
+![](../School_plots/SARASOTA/SARASOTA_M.png)
+![](../School_plots/SARASOTA/SUNCOAST_P.png)
+![](../School_plots/SARASOTA/VENICE_SEN.png)

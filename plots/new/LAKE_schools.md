@@ -1,0 +1,10 @@
+This file totally RULES!
+![](ALEE_ACADE.png)
+![](../School_plots/LAKE/EAST_RIDGE.png)
+![](../School_plots/LAKE/EUSTIS.png)
+![](../School_plots/LAKE/LAKE_MINNE.png)
+![](../School_plots/LAKE/LEESBURG.png)
+![](../School_plots/LAKE/MT_DORA.png)
+![](../School_plots/LAKE/SOUTH_LAKE.png)
+![](../School_plots/LAKE/TAVARES.png)
+![](../School_plots/LAKE/UMATILLA.png)
