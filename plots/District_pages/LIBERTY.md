@@ -1,7 +1,7 @@
 # How is Liberty doing in science?  
 Two things to consider when viewing the plots below are:  
-1. Chemistry and physics aren’t just for future physicists and engineers. Students who take chemistry and physics are more competitive in trade/technical programs and careers. They’re also **four times** more likely to graduate college on time.  
-1. Low overall enrollment in chemistry and physics courses is usually accompanied by an *underrepresentation* of girls and students of color in those courses.  
+- Chemistry and physics aren’t just for future physicists and engineers. Students who take chemistry and physics are more competitive in trade/technical programs and careers. They’re also **four times** more likely to graduate college on time.  
+- Low overall enrollment in chemistry and physics courses is usually accompanied by an *underrepresentation* of girls and students of color in those courses.  
 
 Most schools with high chemistry and physics enrollment have this in common:  
 - The have reduced or eliminated the gender and racial gap in enrollment.  
@@ -10,8 +10,9 @@ Most schools with high chemistry and physics enrollment have this in common:
 
 
 ## Enrollment in core courses  
-State exams, school grades, and *Newsweek* rankings are one measure of quality. For a predictor of students' actual career and college readiness, look at how many students take chemistry and physics instead. The States and other countries that excel in science preparation have chemistry and physics enrollment rates above 80%. Florida averages around 79% and 22%, respectively. You can click the images to zoom.  
-Plots for individual schools can be viewed [here](https://github.com/adamlamee/FL-STEM/tree/master/School_plots) (see notes about the data and the end of this page).  
+State exams, school grades, and *Newsweek* rankings are one measure of quality. For a predictor of students' actual career and college readiness, look at how many students take chemistry and physics instead. The States and other countries that excel in science preparation have chemistry and physics **enrollment rates above 80%**. Florida averages around 79% and 22%, respectively. You can click the images to zoom.  
+
+Plots for [individual schools in Liberty](./LIBERTY_schools.md) can be viewed [here](./LIBERTY_schools.md) (see notes about the data and the end of this page).  See the plots for [each of Florida's districts and lab schools here](./all_districts.md). 
 <a href="../District_plots/LIBERTY_11BCPtrend.png"><img src="../District_plots/LIBERTY_11BCPtrend.png"></a>  
 Questions to ask:  
 - In relation to Biology (required for graduation), what fraction of students are taking chemistry? physics?  
