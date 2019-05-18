@@ -13,7 +13,7 @@ Most schools with high chemistry and physics enrollment have this in common:
 State exams, school grades, and *Newsweek* rankings are one measure of quality. For a predictor of students' actual career and college readiness, look at how many students take chemistry and physics instead. The States and other countries that excel in science preparation have chemistry and physics **enrollment rates above 80%**. Florida averages around 79% and 22%, respectively. You can click the images to zoom.  
 
 Plots for [individual schools in Putnam](./PUTNAM_schools.md) can be viewed [here](./PUTNAM_schools.md) (see notes about the data and the end of this page).  See the plots for [each of Florida's districts and lab schools here](./all_districts.html). 
-<a href="../District_plots/PUTNAM_11BCPtrend.png width="300""><img src="../District_plots/PUTNAM_11BCPtrend.png"></a>  
+<a href="../District_plots/PUTNAM_11BCPtrend.png" width="300"><img src="../District_plots/PUTNAM_11BCPtrend.png"></a>  
 Questions to ask:  
 - In relation to Biology (required for graduation), what fraction of students are taking chemistry? physics?  
 - How does the fraction of students **not enrolled** in chemistry and physics compare with the fraction of students not pursuing trade or university education?  
@@ -22,7 +22,7 @@ Questions to ask:
 ---
 ## Electives and non-core courses  
 Which courses are your students taking instead of chemistry and physics that may be less beneficial to them in the long term?  
-<a href="../District_plots/PUTNAM_12courses.png width="300""><img src="../District_plots/PUTNAM_12courses.png"></a>  
+<a href="../District_plots/PUTNAM_12courses.png" width="300"><img src="../District_plots/PUTNAM_12courses.png"></a>  
 Questions to ask:  
 - Are the longest bars green, blue, or gold?  
 - Electives & non-core courses are in gray. What are most students taking instead of chemistry and physics?  
@@ -32,7 +32,7 @@ Questions to ask:
 ---
 ## Diversity  
 In high school science courses, total enrollment is the best predictor of gender and racial equity. When more of a school’s students are enrolled into Chemistry and Physics courses, disparities in gender and race tend to be reduced or eliminated entirely. Schools that require students to **opt-in** to chemistry and physics during registration exhibit the largest disparities in gender and race.  
-<a href="../District_plots/PUTNAM_2demog.png width="600""><img src="../District_plots/PUTNAM_2demog.png"></a>  
+<a href="../District_plots/PUTNAM_2demog.png" width="600"><img src="../District_plots/PUTNAM_2demog.png"></a>  
 Questions to ask:  
 - Since Biology is a required course, it can serve as an estimate of the average student demographics for the area. Is diversity being maintained in chemistry and physics courses?  
 - If diversity is being lost in chemistry or physics, does the *course enrollment bar chart* above suggest any courses that may be the leak in the pipeline?  
