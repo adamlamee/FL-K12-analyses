@@ -1,0 +1,25 @@
+# Schools in Palm_Beach  *Notes*- See comments about the source data on [the page that brought you here](https://adamlamee.github.io/FL-K12-analyses/plots/District_pages/Palm_Beach.html).  - Only schools with total biology enrollment exceeding a threshold (around 100 students) are included. That makes it less likely a high school was excluded, though it may mean some middle schools were included.  
+![](../School_plots/PALM_BEACH/ALEXANDER_.png)
+![](../School_plots/PALM_BEACH/ATLANTIC.png)
+![](../School_plots/PALM_BEACH/BOCA_RATON.png)
+![](../School_plots/PALM_BEACH/BOYNTON_BE.png)
+![](../School_plots/PALM_BEACH/FOREST_HIL.png)
+![](../School_plots/PALM_BEACH/GLADES_CEN.png)
+![](../School_plots/PALM_BEACH/GSTAROF_TH.png)
+![](../School_plots/PALM_BEACH/JOHN_I_LEO.png)
+![](../School_plots/PALM_BEACH/JUPITER.png)
+![](../School_plots/PALM_BEACH/LAKE_WORTH.png)
+![](../School_plots/PALM_BEACH/MAVERICKS_.png)
+![](../School_plots/PALM_BEACH/OLYMPIC_HE.png)
+![](../School_plots/PALM_BEACH/PAHOKEE_SE.png)
+![](../School_plots/PALM_BEACH/PALM_BEACH.png)
+![](../School_plots/PALM_BEACH/PARK_VISTA.png)
+![](../School_plots/PALM_BEACH/ROYAL_PALM.png)
+![](../School_plots/PALM_BEACH/SANTALUCES.png)
+![](../School_plots/PALM_BEACH/SEMINOLE_R.png)
+![](../School_plots/PALM_BEACH/SOMERSET_A.png)
+![](../School_plots/PALM_BEACH/SOUTH_TECH.png)
+![](../School_plots/PALM_BEACH/SPANISH_RI.png)
+![](../School_plots/PALM_BEACH/WELLINGTON.png)
+![](../School_plots/PALM_BEACH/WEST_BOCA_.png)
+![](../School_plots/PALM_BEACH/WILLIAM_T_.png)
