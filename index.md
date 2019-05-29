@@ -45,5 +45,4 @@ You can see some of the supporting research about the importance of taking Biolo
 	<tr><td><a href="./plots/District_pages/UF_LAB_SCH.html">UF_LAB_SCH</a></td><td></td></tr>
 </table>
 
-Copyright [Adam LaMee](http://www.adamlamee.com) 2019
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.adamlamee.com" property="cc:attributionName" rel="cc:attributionURL">Adam LaMee</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
