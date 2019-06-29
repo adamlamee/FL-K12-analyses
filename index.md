@@ -3,7 +3,7 @@ If you like what you see here, check out my other work at [adamlamee.com](http:/
 # Florida Science Enrollment and Demographics  
 Presented at the 2019 Spring meeting of the Florida Association of Science Supervisors, these data show multi-year trends in course enrollment and the demographic differences between course areas. See how your Florida school district is doing below.  
 
-You can see some of the supporting research about the importance of taking Biology, Chemistry, and Physics in high school on my [Why Physics? page](https://adamlamee.github.io/why_physics).    
+You can see some of the supporting research about the importance of taking Biology, Chemistry, and Physics in high school on my [STEM Education page](https://adamlamee.github.io/stem_ed).    
 
 <table>
 	<tr><td><a href="./plots/District_pages/ALACHUA.html">ALACHUA</a></td><td><a href="./plots/District_pages/BAKER.html">BAKER</a></td></tr>
