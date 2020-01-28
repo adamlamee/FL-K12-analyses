@@ -33,7 +33,7 @@ Coming soon. A quick note:
 
 View enrollment plots a district and its high schools at the links below. See the **About the Data** section below for assumptions about course offering and progression. If your school or district does something unique, let me know and I’ll update the plots.  
 
-[ALACHUA](./pages/ALACHUA.md)|[BAKER](./pages/BAKER.md)|  
+|[ALACHUA](./pages/ALACHUA.md)|[BAKER](./pages/BAKER.md)|  
 |[BAY](./pages/BAY.md)|[BRADFORD](./pages/BRADFORD.md)|  
 |[BREVARD](./pages/BREVARD.md)|[BROWARD](./pages/BROWARD.md)|  
 |[CALHOUN](./pages/CALHOUN.md)|[CHARLOTTE](./pages/CHARLOTTE.md)|  
