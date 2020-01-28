@@ -33,43 +33,43 @@ Coming soon. A quick note:
 
 View enrollment plots a district and its high schools at the links below. See the **About the Data** section below for assumptions about course offering and progression. If your school or district does something unique, let me know and I’ll update the plots.  
 
-[ALACHUA](./pages/ALACHUA.md)|[BAKER](./pages/BAKER.md)  
-[BAY](./pages/BAY.md)|[BRADFORD](./pages/BRADFORD.md)  
-[BREVARD](./pages/BREVARD.md)|[BROWARD](./pages/BROWARD.md)  
-[CALHOUN](./pages/CALHOUN.md)|[CHARLOTTE](./pages/CHARLOTTE.md)  
-[CITRUS](./pages/CITRUS.md)|[CLAY](./pages/CLAY.md)  
-[COLLIER](./pages/COLLIER.md)|[COLUMBIA](./pages/COLUMBIA.md)  
-[MIAMI-DADE](./pages/MIAMI-DADE.md)|[DESOTO](./pages/DESOTO.md)  
-[DIXIE](./pages/DIXIE.md)|[DUVAL](./pages/DUVAL.md)  
-[ESCAMBIA](./pages/ESCAMBIA.md)|[FLAGLER](./pages/FLAGLER.md)  
-[FRANKLIN](./pages/FRANKLIN.md)|[GADSDEN](./pages/GADSDEN.md)  
-[GILCHRIST](./pages/GILCHRIST.md)|[GLADES](./pages/GLADES.md)  
-[GULF](./pages/GULF.md)|[HAMILTON](./pages/HAMILTON.md)  
-[HARDEE](./pages/HARDEE.md)|[HENDRY](./pages/HENDRY.md)  
-[HERNANDO](./pages/HERNANDO.md)|[HIGHLANDS](./pages/HIGHLANDS.md)  
-[HILLSBOROUGH](./pages/HILLSBOROUGH.md)|[HOLMES](./pages/HOLMES.md)  
-[INDIAN_RIVER](./pages/INDIAN_RIVER.md)|[JACKSON](./pages/JACKSON.md)  
-[JEFFERSON](./pages/JEFFERSON.md)|[LAFAYETTE](./pages/LAFAYETTE.md)  
-[LAKE](./pages/LAKE.md)|[LEE](./pages/LEE.md)  
-[LEON](./pages/LEON.md)|[LEVY](./pages/LEVY.md)  
-[LIBERTY](./pages/LIBERTY.md)|[MADISON](./pages/MADISON.md)  
-[MANATEE](./pages/MANATEE.md)|[MARION](./pages/MARION.md)  
-[MARTIN](./pages/MARTIN.md)|[MONROE](./pages/MONROE.md)  
-[NASSAU](./pages/NASSAU.md)|[OKALOOSA](./pages/OKALOOSA.md)  
-[OKEECHOBEE](./pages/OKEECHOBEE.md)|[ORANGE](./pages/ORANGE.md)  
-[OSCEOLA](./pages/OSCEOLA.md)|[PALM_BEACH](./pages/PALM_BEACH.md)  
-[PASCO](./pages/PASCO.md)|[PINELLAS](./pages/PINELLAS.md)  
-[POLK](./pages/POLK.md)|[PUTNAM](./pages/PUTNAM.md)  
-[ST JOHNS](./pages/ST JOHNS.md)|[ST LUCIE](./pages/ST LUCIE.md)  
-[SANTA_ROSA](./pages/SANTA_ROSA.md)|[SARASOTA](./pages/SARASOTA.md)  
-[SEMINOLE](./pages/SEMINOLE.md)|[SUMTER](./pages/SUMTER.md)  
-[SUWANNEE](./pages/SUWANNEE.md)|[TAYLOR](./pages/TAYLOR.md)  
-[UNION](./pages/UNION.md)|[VOLUSIA](./pages/VOLUSIA.md)  
-[WAKULLA](./pages/WAKULLA.md)|[WALTON](./pages/WALTON.md)  
-[WASHINGTON](./pages/WASHINGTON.md)|[DEAF_BLIND](./pages/DEAF_BLIND.md)  
-[FL_VIRTUAL](./pages/FL_VIRTUAL.md)|[FAU_LAB_SCH](./pages/FAU_LAB_SCH.md)  
-[FSU_LAB_SCH](./pages/FSU_LAB_SCH.md)|[FAMU_LAB_SCH](./pages/FAMU_LAB_SCH.md)  
-[UF_LAB_SCH](./pages/UF_LAB_SCH.md)|  
+[ALACHUA](./pages/ALACHUA.md)|[BAKER](./pages/BAKER.md)|  
+|[BAY](./pages/BAY.md)|[BRADFORD](./pages/BRADFORD.md)|  
+|[BREVARD](./pages/BREVARD.md)|[BROWARD](./pages/BROWARD.md)|  
+|[CALHOUN](./pages/CALHOUN.md)|[CHARLOTTE](./pages/CHARLOTTE.md)|  
+|[CITRUS](./pages/CITRUS.md)|[CLAY](./pages/CLAY.md)|  
+|[COLLIER](./pages/COLLIER.md)|[COLUMBIA](./pages/COLUMBIA.md)|  
+|[MIAMI-DADE](./pages/MIAMI-DADE.md)|[DESOTO](./pages/DESOTO.md)|  
+|[DIXIE](./pages/DIXIE.md)|[DUVAL](./pages/DUVAL.md)|  
+|[ESCAMBIA](./pages/ESCAMBIA.md)|[FLAGLER](./pages/FLAGLER.md)|  
+|[FRANKLIN](./pages/FRANKLIN.md)|[GADSDEN](./pages/GADSDEN.md)|  
+|[GILCHRIST](./pages/GILCHRIST.md)|[GLADES](./pages/GLADES.md)|  
+|[GULF](./pages/GULF.md)|[HAMILTON](./pages/HAMILTON.md)|  
+|[HARDEE](./pages/HARDEE.md)|[HENDRY](./pages/HENDRY.md)|  
+|[HERNANDO](./pages/HERNANDO.md)|[HIGHLANDS](./pages/HIGHLANDS.md)|  
+|[HILLSBOROUGH](./pages/HILLSBOROUGH.md)|[HOLMES](./pages/HOLMES.md)|  
+|[INDIAN_RIVER](./pages/INDIAN_RIVER.md)|[JACKSON](./pages/JACKSON.md)|  
+|[JEFFERSON](./pages/JEFFERSON.md)|[LAFAYETTE](./pages/LAFAYETTE.md)|  
+|[LAKE](./pages/LAKE.md)|[LEE](./pages/LEE.md)|  
+|[LEON](./pages/LEON.md)|[LEVY](./pages/LEVY.md)|  
+|[LIBERTY](./pages/LIBERTY.md)|[MADISON](./pages/MADISON.md)|  
+|[MANATEE](./pages/MANATEE.md)|[MARION](./pages/MARION.md)|  
+|[MARTIN](./pages/MARTIN.md)|[MONROE](./pages/MONROE.md)|  
+|[NASSAU](./pages/NASSAU.md)|[OKALOOSA](./pages/OKALOOSA.md)|  
+|[OKEECHOBEE](./pages/OKEECHOBEE.md)|[ORANGE](./pages/ORANGE.md)|  
+|[OSCEOLA](./pages/OSCEOLA.md)|[PALM_BEACH](./pages/PALM_BEACH.md)|  
+|[PASCO](./pages/PASCO.md)|[PINELLAS](./pages/PINELLAS.md)|  
+|[POLK](./pages/POLK.md)|[PUTNAM](./pages/PUTNAM.md)|  
+|[ST JOHNS](./pages/ST_JOHNS.md)|[ST LUCIE](./pages/ST_LUCIE.md)|  
+|[SANTA_ROSA](./pages/SANTA_ROSA.md)|[SARASOTA](./pages/SARASOTA.md)|  
+|[SEMINOLE](./pages/SEMINOLE.md)|[SUMTER](./pages/SUMTER.md)|  
+|[SUWANNEE](./pages/SUWANNEE.md)|[TAYLOR](./pages/TAYLOR.md)|  
+|[UNION](./pages/UNION.md)|[VOLUSIA](./pages/VOLUSIA.md)|  
+|[WAKULLA](./pages/WAKULLA.md)|[WALTON](./pages/WALTON.md)|  
+|[WASHINGTON](./pages/WASHINGTON.md)|[DEAF_BLIND](./pages/DEAF_BLIND.md)|  
+|[FL_VIRTUAL](./pages/FL_VIRTUAL.md)|[FAU_LAB_SCH](./pages/FAU_LAB_SCH.md)|  
+|[FSU_LAB_SCH](./pages/FSU_LAB_SCH.md)|[FAMU_LAB_SCH](./pages/FAMU_LAB_SCH.md)|  
+|[UF_LAB_SCH](./pages/UF_LAB_SCH.md)| |  
 
 ## About the data
 These analyses were performed by [Adam LaMee](http://www.adamlamee.com). The source data comes from the Florida Department of Education. Course enrollment data is readily available from the [FLDOE](http://www.fldoe.org/accountability/data-sys/edu-info-accountability-services/pk-12-public-school-data-pubs-reports/students.stml). Enrollment demographics were provided via data request from the fine folks at the [Bureau of PK-20 Education Reporting and Accessibility](http://www.fldoe.org/accountability/accountability-reporting/). If you’d like to see your district’s data in a different form or get edited plots, I’m happy to help. Send an email to adamlamee@gmail.com.  
