@@ -12,6 +12,8 @@ A sustainable solution is for schools to **register students by default into che
 
 ## The State of High School Science in Florida  
 
+<a href="./plots/FL_trend.png"><img src="./thumbnails/FL_trend.png"></a> 
+
 <a href="./plots/FL_trend.png"><img src="./thumbnails/FL_trend.png" alt=”4-year trend of high school chemistry and physics enrollment in Florida”></a>  
 
 <a href="../plots/FL_dist_comparison.png"><img src="../thumbnails/FL_dist_comparison.png" alt=”Comparison of Florida school districts’ enrollment rates in chemistry and physics”></a>  
