@@ -21,13 +21,8 @@ A sustainable solution is for schools to **register students by default into che
 ## Highlights  
 
 Coming soon. A quick note:  
-- Monroe and Bay counties showed huge enrollment increases, due in no small part to their amazing teachers, admin, and FSU Professor Paul Cottle’s outreach.
-
-### Monroe and Bay Rising  
-
-### Brevard Falling  
-
-### Honorable Mentions  
+- Monroe and Bay counties showed huge enrollment increases, due in no small part to their amazing teachers, admin, and FSU Professor Paul Cottle’s outreach.  
+- Brevard's choice of foregoing their longtime policy of chemistry and physics for all students had played out predictably - enrollment is down 17% in chemistry and 10% in physics.  
 
 ## District and School Plots  
 
@@ -48,7 +43,7 @@ View enrollment plots a district and its high schools at the links below. See th
 |[HARDEE](./pages/HARDEE.md)|[HENDRY](./pages/HENDRY.md)|  
 |[HERNANDO](./pages/HERNANDO.md)|[HIGHLANDS](./pages/HIGHLANDS.md)|  
 |[HILLSBOROUGH](./pages/HILLSBOROUGH.md)|[HOLMES](./pages/HOLMES.md)|  
-|[INDIAN_RIVER](./pages/INDIAN_RIVER.md)|[JACKSON](./pages/JACKSON.md)|  
+|[INDIAN RIVER](./pages/INDIAN_RIVER.md)|[JACKSON](./pages/JACKSON.md)|  
 |[JEFFERSON](./pages/JEFFERSON.md)|[LAFAYETTE](./pages/LAFAYETTE.md)|  
 |[LAKE](./pages/LAKE.md)|[LEE](./pages/LEE.md)|  
 |[LEON](./pages/LEON.md)|[LEVY](./pages/LEVY.md)|  
@@ -57,19 +52,19 @@ View enrollment plots a district and its high schools at the links below. See th
 |[MARTIN](./pages/MARTIN.md)|[MONROE](./pages/MONROE.md)|  
 |[NASSAU](./pages/NASSAU.md)|[OKALOOSA](./pages/OKALOOSA.md)|  
 |[OKEECHOBEE](./pages/OKEECHOBEE.md)|[ORANGE](./pages/ORANGE.md)|  
-|[OSCEOLA](./pages/OSCEOLA.md)|[PALM_BEACH](./pages/PALM_BEACH.md)|  
+|[OSCEOLA](./pages/OSCEOLA.md)|[PALM BEACH](./pages/PALM_BEACH.md)|  
 |[PASCO](./pages/PASCO.md)|[PINELLAS](./pages/PINELLAS.md)|  
 |[POLK](./pages/POLK.md)|[PUTNAM](./pages/PUTNAM.md)|  
 |[ST JOHNS](./pages/ST_JOHNS.md)|[ST LUCIE](./pages/ST_LUCIE.md)|  
-|[SANTA_ROSA](./pages/SANTA_ROSA.md)|[SARASOTA](./pages/SARASOTA.md)|  
+|[SANTA ROSA](./pages/SANTA_ROSA.md)|[SARASOTA](./pages/SARASOTA.md)|  
 |[SEMINOLE](./pages/SEMINOLE.md)|[SUMTER](./pages/SUMTER.md)|  
 |[SUWANNEE](./pages/SUWANNEE.md)|[TAYLOR](./pages/TAYLOR.md)|  
 |[UNION](./pages/UNION.md)|[VOLUSIA](./pages/VOLUSIA.md)|  
 |[WAKULLA](./pages/WAKULLA.md)|[WALTON](./pages/WALTON.md)|  
-|[WASHINGTON](./pages/WASHINGTON.md)|[DEAF_BLIND](./pages/DEAF_BLIND.md)|  
-|[FL_VIRTUAL](./pages/FL_VIRTUAL.md)|[FAU_LAB_SCH](./pages/FAU_LAB_SCH.md)|  
-|[FSU_LAB_SCH](./pages/FSU_LAB_SCH.md)|[FAMU_LAB_SCH](./pages/FAMU_LAB_SCH.md)|  
-|[UF_LAB_SCH](./pages/UF_LAB_SCH.md)| |  
+|[WASHINGTON](./pages/WASHINGTON.md)|[DEAF BLIND](./pages/DEAF_BLIND.md)|  
+|[FL VIRTUAL](./pages/FL_VIRTUAL.md)|[FAU LAB SCH](./pages/FAU_LAB_SCH.md)|  
+|[FSU LAB SCH](./pages/FSU_LAB_SCH.md)|[FAMU LAB SCH](./pages/FAMU_LAB_SCH.md)|  
+|[UF LAB SCH](./pages/UF_LAB_SCH.md)| |  
 
 ## About the data
 These analyses were performed by [Adam LaMee](http://www.adamlamee.com). The source data comes from the Florida Department of Education. Course enrollment data is readily available from the [FLDOE](http://www.fldoe.org/accountability/data-sys/edu-info-accountability-services/pk-12-public-school-data-pubs-reports/students.stml). Enrollment demographics were provided via data request from the fine folks at the [Bureau of PK-20 Education Reporting and Accessibility](http://www.fldoe.org/accountability/accountability-reporting/). If you’d like to see your district’s data in a different form or get edited plots, I’m happy to help. Send an email to adamlamee@gmail.com.  
